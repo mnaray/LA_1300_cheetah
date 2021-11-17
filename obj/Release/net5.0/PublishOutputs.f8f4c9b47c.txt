@@ -1,0 +1,5 @@
+C:\Users\sandro\Desktop\voci_bot publications\ConsoleApp5.exe
+C:\Users\sandro\Desktop\voci_bot publications\ConsoleApp5.dll
+C:\Users\sandro\Desktop\voci_bot publications\ConsoleApp5.deps.json
+C:\Users\sandro\Desktop\voci_bot publications\ConsoleApp5.runtimeconfig.json
+C:\Users\sandro\Desktop\voci_bot publications\ConsoleApp5.pdb
